@@ -151,7 +151,7 @@ var story={
 							"novel3":["The man pushes you over to a corner. You hear an object being thrown and the white-eyed man walks away to inspect it.",0,"novel4"],
 							"novel4":["Suddenly you hear the man being stabbed, but you know he's still alive.",0,"novel5"],
 							"novel5":["A person&mdash;you&mdash;with glowing yellow eyes comes over to you, takes a selfie, then helps you up. He leads you outside of the hotel. You have escaped with yourself.",0,"WIN"],
-				"door3":["The room is large. Which side of the room to check out first?",2,["The left side.","recu","The right side.","otta",]],
+				"door3":["The room is large. Which side of the room to check out first?",1,["The left side.","recu","The right side.","otta",]],
 					"recu":["You see a machine. It requires you to enter in 20 numbers. Enter in a number:",2,0,"recur","recur"],
 						"recur":["Enter in another:",2,0,"recur","recur"],
 					"otta":["You come across an emergency exit but it requires a passcode.",1,["Attempt the passcode.","binary","Open the door.","careful",]],
